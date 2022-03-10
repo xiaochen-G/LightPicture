@@ -10,8 +10,7 @@
 
 
 
-
-[官网](http://picture.h234.cn) &nbsp; -  &nbsp;[演示](http://pic.xyaxw.cn) &nbsp; -  &nbsp;[使用手册](https://www.kancloud.cn/osuu234/lightpicture/2648408) &nbsp; -  &nbsp;[作者博客](https://www.osuu.net) &nbsp;
+&nbsp;[演示](http://pic.xyaxw.cn) &nbsp; -  &nbsp;[使用手册](https://www.kancloud.cn/osuu234/lightpicture/2648408) &nbsp; -  &nbsp;[作者博客](https://www.axcz.cn) &nbsp;
 
 
 
@@ -77,7 +76,7 @@ location / {
 注：完成后若开启前台注册请登录管理员账号配置发信邮箱
 
 ##  联系我
-- Email: admin@osuu.net
+- Email: gjcyx@outlook.com
 
 ##  捐赠/打赏
 如果您认可我的作品，并且觉得对你有所帮助我愿意接受来自各方面的捐赠    
